@@ -1,0 +1,12 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/QCRunner.Calculations.Common/QCRunner.Calculations.Common.csproj" />
+    <Project Path="src/QCRunner.Calculations.Windows/QCRunner.Calculations.Windows.csproj" />
+    <Project Path="src/QCRunner.Calculations/QCRunner.Calculations.csproj" />
+    <Project Path="src/QCRunner.Common/QCRunner.Common.csproj" />
+    <Project Path="src/QCRunner.Core/QCRunner.Core.csproj" />
+    <Project Path="src/QCRunner.Data/QCRunner.Data.csproj" />
+    <Project Path="src/QCRunner.Infrastructure/QCRunner.Infrastructure.csproj" />
+    <Project Path="src/QCRunner.Windows/QCRunner.Windows.csproj" />
+  </Folder>
+</Solution>

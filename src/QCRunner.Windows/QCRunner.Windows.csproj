@@ -1,0 +1,15 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net10.0-windows</TargetFramework>
+    <UseWindowsForms>true</UseWindowsForms>
+    <Description>Method designer shell. Placeholder only.</Description>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\QCRunner.Core\QCRunner.Core.csproj" />
+    <ProjectReference Include="..\QCRunner.Data\QCRunner.Data.csproj" />
+  </ItemGroup>
+
+</Project>

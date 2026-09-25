@@ -1,0 +1,11 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <Description>Calculation contracts: inputs, results and enumerations shared between the engine and the application.</Description>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\QCRunner.Common\QCRunner.Common.csproj" />
+  </ItemGroup>
+
+</Project>

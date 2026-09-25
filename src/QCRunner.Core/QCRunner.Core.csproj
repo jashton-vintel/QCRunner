@@ -1,0 +1,16 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <Description>Domain model, operations, instrument abstractions and runners.</Description>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.Extensions.Logging.Abstractions" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\QCRunner.Common\QCRunner.Common.csproj" />
+    <ProjectReference Include="..\QCRunner.Calculations.Common\QCRunner.Calculations.Common.csproj" />
+  </ItemGroup>
+
+</Project>

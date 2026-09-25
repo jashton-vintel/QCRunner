@@ -1,0 +1,7 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <Description>Cross-cutting helpers shared by every QCRunner assembly.</Description>
+  </PropertyGroup>
+
+</Project>

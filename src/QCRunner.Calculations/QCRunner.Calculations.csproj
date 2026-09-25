@@ -1,0 +1,11 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <Description>The QC calculation engine. Proprietary processing is redacted; result building is intact.</Description>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\QCRunner.Calculations.Common\QCRunner.Calculations.Common.csproj" />
+  </ItemGroup>
+
+</Project>
